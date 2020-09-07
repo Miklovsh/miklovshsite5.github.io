@@ -1,3 +1,11 @@
+@media screen and (max-width: 1240px){
+    .gallery__descr_bottom p{
+        display: none;
+    }
+    .gallery__descr_top p{
+        display: none;
+    }
+}
 @media screen and (max-width: 840px) {
     .nav__menu li {
         display: none;
