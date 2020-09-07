@@ -7,8 +7,6 @@ html {
     box-sizing: border-box;
 }
 
-.header {}
-
 .header__background {
     background: url(../img/background_header.jpg);
     background-position: center;
@@ -87,8 +85,6 @@ html {
     font-family: 'Playfair Display', serif;
     font-style: normal;
     font-weight: bold;
-    /* font-size: 48px;
-    line-height: 64px; */
     font-size: 4vw;
     text-align: center;
     color: #D4C17F;
@@ -99,8 +95,6 @@ html {
     justify-content: center;
     margin-top: 100px;
 }
-
-.scroll_down {}
 
 button.scroll_down {
     position: absolute;
@@ -194,10 +188,6 @@ button.scroll_down:before {
     padding-left: 100px;
 }
 
-.benefits {}
-
-.container {}
-
 .benefits__background {
     background: #242B33;
 }
@@ -237,10 +227,6 @@ button.scroll_down:before {
 .benefits__descr p {
     padding-left: 70px;
 }
-
-.gallery {}
-
-.container {}
 
 .gallery__background {
     background: #242B33;
@@ -323,10 +309,6 @@ button.scroll_down:before {
     color: #FFFFFF;
 }
 
-.review {}
-
-.container {}
-
 .review__background {
     background: url(../img/review_background.png);
     background-position: center;
@@ -370,8 +352,6 @@ button.scroll_down:before {
     line-height: 24px;
     color: #FFFFFF;
 }
-
-.review__form {}
 
 .review__form input {
     margin-left: 25px;
@@ -440,10 +420,6 @@ button.scroll_down:before {
     flex-direction: column;
 }
 
-.video {}
-
-.container {}
-
 .video__background {
     background: #242B33;
 }
@@ -452,10 +428,6 @@ button.scroll_down:before {
     display: flex;
     justify-content: center;
 }
-
-.map {}
-
-.container {}
 
 .map__background {
     background: #242B33;
@@ -487,10 +459,6 @@ button.scroll_down:before {
     width: 1110px;
     height: 400px;
 }
-
-.forms {}
-
-.container {}
 
 .map__background {
     background: #242B33;
@@ -530,8 +498,6 @@ button.scroll_down:before {
     width: 255px;
     height: 28px;
 }
-
-.forms__form {}
 
 .forms__form input {
     margin-left: 25px;
@@ -576,10 +542,6 @@ button.scroll_down:before {
     color: #FFFFFF;
     text-decoration: none;
 }
-
-.footer {}
-
-.container {}
 
 .footer__background {
     background: url(../img/footer_background.png);
@@ -664,12 +626,6 @@ button.scroll_down:before {
     letter-spacing: 0.05em;
     color: #FFFFFF;
 }
-
-.footer__address {}
-
-.footer__number {}
-
-.footer__schedule {}
 
 .footer__email span {
     color: #d4c17f;
