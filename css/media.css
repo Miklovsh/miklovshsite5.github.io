@@ -1,11 +1,12 @@
-@media screen and (max-width: 1240px){
-    .gallery__descr_bottom p{
+@media screen and (max-width: 1240px) {
+    .gallery__descr_left p {
         display: none;
     }
-    .gallery__descr_top p{
+    .gallery__descr_right p {
         display: none;
     }
 }
+
 @media screen and (max-width: 840px) {
     .nav__menu li {
         display: none;
